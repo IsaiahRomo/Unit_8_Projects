@@ -76,7 +76,7 @@
       padding: 5px;
       vertical-align: top;
       width: 14.28%;
-      word-wrap: text;
+      word-wrap: normal;
    }
    td{
       background-color: rgba(171, 171, 171, 0.6);
